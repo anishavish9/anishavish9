@@ -4,11 +4,8 @@
   
 
 ### <div align="center">I'm Anisha, a software developer 👨‍💻  working since 2022 🚀</div>  
+   
   
-
-- 🔭 I’m currently working on [Streaming App](https://github.com/anishavish9/streaming-app)  
-  
-
 - 🌱 I’m currently learning Microservices.  
   
 
